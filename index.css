@@ -1,11 +1,11 @@
 .main{
     font-size: 120px;
-    color: crimson;
+    color: rgb(5, 255, 109);
 }
 a{
     position: relative;
-    background: #444;
-    color: #fff;
+    background: #01f7ff;
+    color: #00f400;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 2.5em;
@@ -20,12 +20,12 @@ a::before{
     content: '';
     position: absolute;
     inset: 2px;
-    background: #27282c;
+    background: #000105;
 }
 a span{
     position: relative;
     z-index: 1;
 }
 body{
-    background: rgb(86, 82, 82);
+    background: rgb(0, 0, 0);
 }
